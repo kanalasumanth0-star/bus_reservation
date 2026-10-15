@@ -1,0 +1,16 @@
+{
+  "name": "bus-reservation-crud",
+  "version": "1.0.0",
+  "description": "Bus reservation system with HTML/CSS pages, CRUD APIs, and MySQL backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^18.0.8",
+    "express": "^4.22.3",
+    "mysql2": "^3.24.6"
+  }
+}
